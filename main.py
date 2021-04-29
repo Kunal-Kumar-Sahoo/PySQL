@@ -1169,7 +1169,7 @@ def program_help():
 | ADVANCE MODE FOR PURE MYSQL QUERY                                            |
 |                                                                              |
 | advance mode;      > To enter advance mode to execute pure MySQL query.      |
-| exit advance mode; > To exit advance mode and enter LessSQL mode.            |
+| exit advance mode; > To exit advance mode and enter PySQL mode.              |
 |                                                                              |
 |______________________________________________________________________________|
 |______________________________________________________________________________|
